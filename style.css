@@ -1,0 +1,121 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    color: #fff;
+    text-align: center;
+    font-family: 'Laila', sans-serif;
+    background-image: url("/pre-saveelly.jpg");
+}
+
+nav h1{
+    padding-top: 5%;
+    font-family: 'Assistant', sans-serif;
+    font-size: 90px;
+    font-weight: 100;
+}
+.image img{
+    width: 250px;
+}
+
+.main-container{
+    padding-top: 10px;
+    line-height: 4rem;
+}
+
+.icons i{
+    padding: 0 10px 0 10px;
+    color: gray;
+    font-size: 29px;
+}
+
+.icons i:hover{
+    color: white;
+}
+
+span{
+    color: rgb(196, 118, 118)
+}
+
+a{
+    text-decoration: none;
+    color:rgb(196, 118, 118);
+}
+
+a:hover{
+    color:rgb(228, 92, 92);
+}
+
+.name{
+    font-family: 'Assistant', sans-serif;
+    font-weight: 100;
+    letter-spacing: 2px;
+}
+
+.title2{
+    font-size: 30px;;
+}
+
+.name2{
+    font-family: 'Assistant', sans-serif;
+    font-weight: 100;
+    letter-spacing: 2px;
+    color:rgb(196, 118, 118);
+    padding-top: 50px;
+}
+
+.pre-save-link{
+    padding-top: 40px;
+    color: rgb(134, 133, 133)
+}
+
+.pre-save-link a{
+    color: rgb(134, 133, 133)
+}
+
+.pre-save-link a:hover{
+    color: rgb(197, 192, 192)
+}
+
+.pre-save-link{
+    color: #fff;
+}
+
+
+.countdown {
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .countdown div {
+    padding: 20px;
+    border: 1px  #fff solid;
+    border-radius: 10px;
+    color:  rgb(190, 106, 120);
+    background: black;
+    opacity: 0.5;
+    margin: 5px;
+  }
+  
+  .countdown div:first-child {
+    background: rgb(19, 18, 18);
+  }
+  
+  .countdown span {
+    font-size: 20px;
+  }
+
+.name{
+    font-family: 'Eater', cursive;
+}
+
+header h1{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
