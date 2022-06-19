@@ -8,7 +8,7 @@ body{
     color: #fff;
     text-align: center;
     font-family: 'Laila', sans-serif;
-    background-image: url("/pre-saveelly.jpg");
+    background-image: url("./imgs/pre-saveelly.jpg");
 }
 
 nav h1{
